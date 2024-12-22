@@ -453,6 +453,15 @@ return [
         "Present" => "Şu an",
         "Excluding {days}" => "Hariç {days}",
     ],
+    "heytr" => [
+        "Total Contributions" => "Toplam Değişiklik",
+        "Current Streak" => "Toplam Süre",
+        "Longest Streak" => "Geçmiş Süre",
+        "Week Streak" => "Haftalık Süre",
+        "Longest Week Streak" => "En Uzun Haftalık Süre",
+        "Present" => "Şu an",
+        "Excluding {days}" => "{days} gün hariç",
+    ],   
     "uk" => [
         "Total Contributions" => "Загальний вклад",
         "Current Streak" => "Поточна діяльність",
